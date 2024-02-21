@@ -1,4 +1,9 @@
 ### Hi there 👋
+:airplane::space_invader: I'm an aerospace engineer in love with all the branches of engineering.:sunglasses:
+
+🌱 I’m currently learning How to be a good Back-end Dev.
+So i'm studying C, C++, C#, Java Script and Rust, just to keep myself busy.
+
 
 <!--
 **BaDjinn/BaDjinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
