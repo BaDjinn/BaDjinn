@@ -3,6 +3,7 @@
 
 🌱 I’m currently learning how to be a good Back-end Dev.
 So i'm studying C, C++, C#, Java Script and Rust, just to keep myself busy.
+
 🔭 I'm corrently expanding my knowledge on 11ty as a mean to deploy fast and easy webpages for info/blogs.
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=badjinn&theme=tokyonight&hide=contribs,issues&show_icons=true&hide_border=true" alt="BaDjinn's github stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badjinn&layout=compact&theme=tokyonight&hide_border=true" alt="BaDjinn's github stats" /></a>
