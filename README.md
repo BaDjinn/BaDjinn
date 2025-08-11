@@ -2,7 +2,7 @@
 :airplane::space_invader: I'm an aerospace engineer in love with all the branches of engineering.:sunglasses:
 
 🌱 I’m currently learning how to be a good Back-end Dev.
-So i'm studying C, C++, C#, Java Script and Rust, just to keep myself busy.
+So i'm studying C, C++, Java Script, just to keep myself busy.
 
 🔭 I'm corrently expanding my knowledge on 11ty as a mean to deploy fast and easy webpages for info/blogs.
 
