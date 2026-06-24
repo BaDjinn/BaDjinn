@@ -1,6 +1,7 @@
 ### Hi there 👋
 :airplane::space_invader: I'm an aerospace engineer in love with all the branches of engineering.:sunglasses:
 
+Preferred theme: Tokyo (Dark) / Tokyo Night 
 <!--🌱 I’m currently learning how to be a good Back-end Dev.
 So i'm studying C, C++,FORTRAN and Java Script, just to keep myself busy.
 
